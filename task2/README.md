@@ -7,6 +7,7 @@
 ![prog1](https://github.com/0du1/task0/blob/master/task2/img/prog1.png)
 
 Переведння у двійкову систему числення
+
 ![prog2](https://github.com/0du1/task0/blob/master/task2/img/prog2.png)
 
 
